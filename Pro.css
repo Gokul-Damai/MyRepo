@@ -1,0 +1,76 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2  {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.img {
+width:100px;
+height:200px;
+border-radius: 100px;
+}
+.feedback-section {
+    width:150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+  
+    color: white;
+    border-radius: 5px;
+}
+
+.face-id-section {
+    width:150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.bill-section {
+    width:150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.footer {
+
+    text-align: left;
+}
